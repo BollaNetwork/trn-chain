@@ -1,0 +1,3 @@
+[submodule "trn-chain-framework"]
+	path = trn-chain-framework
+	url = https://github.com/0xPolygon/polygon-edge.git

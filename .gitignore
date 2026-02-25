@@ -1,0 +1,10 @@
+# runtime/data
+node1/
+data/
+logs/
+*.key
+*.pem
+.env
+
+# system
+.DS_Store
