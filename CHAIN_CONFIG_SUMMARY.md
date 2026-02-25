@@ -1,0 +1,11 @@
+# TRN Chain Config (doc base)
+- Name: TurionNetwork
+- Symbol: TRN
+- Chain ID: 210866
+- Consensus: PolyBFT (PoS)
+- Block time: 2s
+- Epoch size: 100000
+- Validator (node1): 0xE7f4176873137AD14a8c0D989dFBAa34c9d6841b
+- Genesis: /opt/trn-chain/config/genesis.json
+- Start script: /opt/trn-chain/scripts/start-node1.sh
+- Status: CONFIGURADA, NAO LIGADA
